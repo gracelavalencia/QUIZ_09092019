@@ -1,0 +1,11 @@
+D:\PEMROGRAMAN DASAR\QUIZ_09092019\bin\Debug\netcoreapp2.2\QUIZ_09092019.deps.json
+D:\PEMROGRAMAN DASAR\QUIZ_09092019\bin\Debug\netcoreapp2.2\QUIZ_09092019.runtimeconfig.json
+D:\PEMROGRAMAN DASAR\QUIZ_09092019\bin\Debug\netcoreapp2.2\QUIZ_09092019.runtimeconfig.dev.json
+D:\PEMROGRAMAN DASAR\QUIZ_09092019\bin\Debug\netcoreapp2.2\QUIZ_09092019.dll
+D:\PEMROGRAMAN DASAR\QUIZ_09092019\bin\Debug\netcoreapp2.2\QUIZ_09092019.pdb
+D:\PEMROGRAMAN DASAR\QUIZ_09092019\obj\Debug\netcoreapp2.2\QUIZ_09092019.csprojAssemblyReference.cache
+D:\PEMROGRAMAN DASAR\QUIZ_09092019\obj\Debug\netcoreapp2.2\QUIZ_09092019.csproj.CoreCompileInputs.cache
+D:\PEMROGRAMAN DASAR\QUIZ_09092019\obj\Debug\netcoreapp2.2\QUIZ_09092019.AssemblyInfoInputs.cache
+D:\PEMROGRAMAN DASAR\QUIZ_09092019\obj\Debug\netcoreapp2.2\QUIZ_09092019.AssemblyInfo.cs
+D:\PEMROGRAMAN DASAR\QUIZ_09092019\obj\Debug\netcoreapp2.2\QUIZ_09092019.dll
+D:\PEMROGRAMAN DASAR\QUIZ_09092019\obj\Debug\netcoreapp2.2\QUIZ_09092019.pdb
